@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30PM",
+      "reminder": true
+    },
+    {
+      "text": "Take Test",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Breakfast",
+      "day": "Everyday 6AM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Lunch",
+      "day": "Everyday 1PM",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Dinner",
+      "day": "Everyday 8PM",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
